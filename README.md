@@ -11,7 +11,7 @@ Esta carpeta cuenta con el documento general del sistema, incluyendo:
 </ul>
 </p>
 
-<h2>📑 Manuales de Procesos, Otros</h2>
+<h2>📘 Manuales de Procesos, Otros</h2>
 <p>
 Esta carpeta contiene los manuales de procesos, así como actualizaciones de flujos.
 </p>
