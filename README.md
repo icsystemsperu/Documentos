@@ -1,6 +1,5 @@
-<h1>📂 Documentos</h1>
 <img src="logo.png" alt="Logo del proyecto" width="200">
-
+<h1>📂 Documentos</h1>
 <p>Repositorio de manuales y documentación técnica.</p>
 
 <h2>📘 Manual Programador, Memoria Descriptiva</h2>
